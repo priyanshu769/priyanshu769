@@ -9,11 +9,11 @@
 
 - ✨ Building Social Presence by simplifying Web Dev learning space.
 
+- 💬 Ask me about **web development** & **life**.
+
 - 👨‍💻 All of my projects are available at [https://devpriyanshu.netlify.app](https://devpriyanshu.netlify.app)
 
 - 📝 I ocassionally write articles on [https://priyanshu769.hashnode.dev/](https://priyanshu769.hashnode.dev/)
-
-- 💬 Ask me about **web development** & **life**.
 
 - 📫 How to reach me **prynsu@yahoo.com**
 
