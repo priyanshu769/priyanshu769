@@ -3,15 +3,17 @@
 
 - 🔭 I’m currently working on improving my previous projects.
 
-- 🌱 I’m currently learning **Next.js**.
+- 🌱 I’m currently learning **React Native**, **Next.js** & **GraphQL**.
 
-- 🦋 I'm currently learning how to execute ideas.
+- 🦋 I'm currently curating resources to learn about web 3.0.
+
+- ✨ Building Social Presence by simplifying Web Dev learning space.
 
 - 👨‍💻 All of my projects are available at [https://devpriyanshu.netlify.app](https://devpriyanshu.netlify.app)
 
 - 📝 I ocassionally write articles on [https://priyanshu769.hashnode.dev/](https://priyanshu769.hashnode.dev/)
 
-- 💬 Ask me about **web development**.
+- 💬 Ask me about **web development** & **life**.
 
 - 📫 How to reach me **prynsu@yahoo.com**
 
