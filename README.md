@@ -3,13 +3,7 @@
 
 - 🔭 I’m currently working on improving my previous projects.
 
-- 🌱 I’m currently learning **React Native**, **Next.js** & **GraphQL**.
-
-- 🦋 I'm currently curating resources to learn about web 3.0.
-
-- ✨ Building Social Presence by simplifying Web Dev learning space.
-
-- 💬 Ask me about **web development** & **life**.
+- 💬 Ask me about **web development** & **fun in life**.
 
 - 👨‍💻 All of my projects are available at [https://devpriyanshu.netlify.app](https://devpriyanshu.netlify.app)
 
