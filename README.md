@@ -5,11 +5,11 @@
 
 - 💬 Ask me about **web development** & **fun in life**.
 
-- 👨‍💻 All of my projects are available at [https://devpriyanshu.netlify.app](https://devpriyanshu.netlify.app)
+- 👨‍💻 All of my projects are available at [https://devpriyanshu.netlify.app](https://devpriyanshu.netlify.app/projects)
 
-- 📝 I ocassionally write articles on [https://priyanshu769.hashnode.dev/](https://priyanshu769.hashnode.dev/)
+- 📝 I ocassionally write tech articles on [https://priyanshu769.hashnode.dev/](https://priyanshu769.hashnode.dev/)
 
-- 📫 How to reach me **prynsu@yahoo.com**
+- 📫 Reach me on **prynsu@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
